@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="stitch_background">#FF000000</color>
+    <color name="stitch_surface">#FF131313</color>
+    <color name="stitch_white">#FFFFFFFF</color>
+    <color name="stitch_gray">#FF8E928F</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>

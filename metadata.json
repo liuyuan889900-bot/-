@@ -1,0 +1,6 @@
+{
+  "name": "读丛书",
+  "description": "掌阅风格本地阅读器，支持即时实时搜索、书架管理、高品质文本阅读排版与自定义阅读体验",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
